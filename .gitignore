@@ -1,0 +1,18 @@
+# macOS system files to ignore
+.DS_Store
+
+# Linux system files to ignore
+*~
+*.swp
+
+# Windows system files to ignore
+Thumbs.db
+
+# Processing IDE project files to ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# Compiled Java class files to ignore
+bin/
